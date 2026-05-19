@@ -1,4 +1,4 @@
-# AI-Driven Yield Strength Prediction for AA7xxx Aerospace Alloys
+# ML-Driven Yield Strength and hardness Prediction for AA7xxx Alloys
 
 An end-to-end Materials Informatics pipeline that utilizes machine learning to predict the room-temperature yield strength of heat-treated AA7xxx series aluminum alloys based on chemical composition and thermal processing parameters.
 
